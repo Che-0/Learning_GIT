@@ -1,5 +1,16 @@
 Sin modificación
 
+<<<<<<< HEAD
 Esta es la primera modificación
 
 Ete es el tercer cambio para apllicar FIT diff
+=======
+Esta es la terceraa modificacion por parte de la rama 1
+
+}Esta es la cuarta mofdificacion dela rama 2 sobre la rama 1
+
+esta es la quinta we
+
+Creacion de la 3ra rama
+tengo que hacer un add y commit ?
+>>>>>>> rama_3
